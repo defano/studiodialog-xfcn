@@ -125,9 +125,15 @@ Setting the progress meter to 40% of the progress window "Sampling".
 Set the progress of window Sampling to 40.
 ```
 
+![Example 1](images/example1.png)
+
 __SPECIAL CONSIDERATIONS:__
 
 The algorithm used in StudioDialog does not support decreasing the progress of a window. Therefore the call Set the progress of window "sampling" to 20 would have no effect on the window in figure 1.
+
+The figure below shows a dialog box under construction in ResEdit.
+
+![Example 2](images/example2.png)
 
 ## Exiting HyperCard
 
