@@ -1,7 +1,9 @@
 # StudioDialog XFCN
 A HyperCard XFCN for displaying and controlling custom dialogs and modal progress windows.
 
-**_Wait... what?!_** I developed this in high school as an extension to [HyperCard](http://hypercard.org) (a long-defunct program / application development environment that shipped with every Macintosh sold in the late eighties and nineties). I have archived its source code and documentation here for posterity. And nostalgia.
+### Wait, what?!
+
+I developed this as high school student (circa 1995-96) as an extension to [HyperCard](http://hypercard.org) (a long-defunct program / application development environment that shipped with every Macintosh sold in the late eighties and nineties). I have archived its source code and documentation here for posterity. And nostalgia.
 
 ![Screenshot](/images/screenshot.png)
 
